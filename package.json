@@ -42,7 +42,7 @@
     "@dcloudio/uni-stat": "^2.0.0-26920200424005",
     "core-js": "^3.6.4",
     "flyio": "^0.6.2",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.11",
     "vuex": "^3.0.1"
